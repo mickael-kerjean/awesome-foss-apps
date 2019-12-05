@@ -49,6 +49,13 @@ This list is for developers who are looking for non-trivial quality applications
 ### Web Apps (fullstack)
 ----
 
+### [Filestash](https://github.com/mickael-kerjean/filestash)
+
+* golang, react
+* AGPLv3 License
+
+> Filestash is a web based file manager that supports a range of protocols and platforms: FTP, SFTP, S3, Minio, Git, WebDAV, LDAP, Backblaze, Dropbox, Google Drive.
+
 ### [Ghost](https://github.com/TryGhost/Ghost)
 
 * node, express, ember
